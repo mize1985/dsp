@@ -57,5 +57,6 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
-:squirrel:
+My favorite emoji was not actually rendered, so I've chosen this one sarcastically in response:
+:smiley:
 
