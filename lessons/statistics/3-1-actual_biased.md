@@ -43,5 +43,7 @@ print('biased mean:',biased_mean)
 **Output:**
 ---
 ![](biased.png)
+
 actual mean: 1.024205155043831
+
 biased mean: 2.403679100664282
