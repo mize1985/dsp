@@ -2,7 +2,7 @@
 
 **Question:**
 ---
-Using the variabletotalwgt_lb, investigate whether first ba-bies are lighter or heavier than others. Compute Cohen’s d to quantify the difference  between  the  groups. How  does  it  compare  to  the  difference  in pregnancy length?
+Using the variable totalwgt_lb, investigate whether first ba-bies are lighter or heavier than others. Compute Cohen’s d to quantify the difference  between  the  groups. How  does  it  compare  to  the  difference  in pregnancy length?
 
 
 
